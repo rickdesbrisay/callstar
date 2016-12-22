@@ -1,2 +1,0 @@
-# callstar
-Excell CRM application
